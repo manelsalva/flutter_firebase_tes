@@ -12,9 +12,11 @@ class MyApp extends StatelessWidget {
       ),
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Hola'),
+          title: Text('Adeu'),
         ),
+        
       ),
+      
     );
   }
 }
